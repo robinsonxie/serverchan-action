@@ -21,3 +21,4 @@ jobs:
         with:
           key: ${{ secrets.sckey }}
           text: serverchan-actions integration test
+      
